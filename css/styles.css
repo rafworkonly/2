@@ -35,3 +35,16 @@ footer {
   background: #d9ddd3;
   font-size: 0.9rem;
 }
+.author {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    margin: 3rem 0;
+}
+
+.author-photo {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+}
