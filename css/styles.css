@@ -4,7 +4,7 @@
 body {
   font-family: Georgia, "Times New Roman", Times, serif;
   margin: 0;
-  background: #beac9a;
+  background: #d9ddd3;
   color: #1a1311;
 }
 header {
@@ -32,7 +32,7 @@ section h2 {
 footer {
   padding: 24px;
   text-align: center;
-  background: #d9ddd3;
+  background: #beac9a;
   font-size: 0.9rem;
 }
 .author {
