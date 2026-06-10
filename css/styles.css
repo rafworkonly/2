@@ -48,3 +48,16 @@ footer {
     object-fit: cover;
     border-radius: 50%;
 }
+.side-image {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 30vw;
+    height: 100vh;
+}
+
+.side-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
