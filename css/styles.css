@@ -48,14 +48,21 @@ footer {
     object-fit: cover;
     border-radius: 50%;
 }
+.content-layout {
+    display: flex;
+    gap: 40px;
+    align-items: flex-start;
+}
 .side-image {
-    position: absolute;
-    left: 0;
-    top: 120px;
-    width: 25vw;
+    flex: 0 0 250px;
 }
 
 .side-image img {
     width: 100%;
     height: auto;
+    display: block;
+}
+
+.main-content {
+    flex: 1;
 }
